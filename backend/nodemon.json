@@ -1,7 +1,0 @@
-{
-  "env": {
-    "MONGO_ATLAS_PW": "admin",
-    "JWT_KEY": "primary_key",
-    "PORT":5000
-  }
-}
